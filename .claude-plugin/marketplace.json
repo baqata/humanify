@@ -1,0 +1,8 @@
+{
+  "name": "humanify",
+  "description": "The humanify skill for Claude Code.",
+  "owner": { "name": "baqata", "url": "https://github.com/baqata" },
+  "plugins": [
+    { "name": "humanify", "source": "./", "description": "Diagnoses, drafts and revises prose in en-US or es-CO through an evidence-based workflow with a human approval gate, preserving meaning, precision, genre and format." }
+  ]
+}

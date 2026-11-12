@@ -1,0 +1,9 @@
+{
+  "name": "humanify",
+  "version": "1.0.0",
+  "description": "Diagnoses, drafts and revises prose in en-US or es-CO through an evidence-based workflow with a human approval gate, preserving meaning, precision, genre and format.",
+  "author": { "name": "baqata", "url": "https://github.com/baqata" },
+  "repository": "https://github.com/baqata/humanify",
+  "license": "MIT",
+  "skills": ["./skills"]
+}
